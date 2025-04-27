@@ -1,4 +1,4 @@
-const backendDomin =  "http://localhost:8080"
+const backendDomin =  "https://mern-ecommerce-backend-ihvnejex1-thenvanathis-projects.vercel.app" //"http://localhost:8080"
 
 const SummaryApi = {
     signUP : {
